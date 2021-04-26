@@ -1,0 +1,3 @@
+[submodule "outer-space/themes/air"]
+	path = outer-space/themes/air
+	url = https://github.com/mjain2/hugo-theme-air.git
