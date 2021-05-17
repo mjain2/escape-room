@@ -48,9 +48,12 @@
     {{ partial "pagination.html" $paginator }}
 	</div>
 
+  <div>
 	{{ range $index, $page := $paginator.Pages }}
-	   {{ .Render "li" }}
+    <div style="display: inline-block; width:33%;text-align:center;"> {{ .Render "li" }}</div>
 	{{ end }}
+</div>
+
 
 	{{ partial "pagination.html" $paginator }}
 </main>
