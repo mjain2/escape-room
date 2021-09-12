@@ -1,3 +1,6 @@
 [submodule "outer-space/themes/air"]
 	path = outer-space/themes/air
 	url = https://github.com/mjain2/hugo-theme-air.git
+[submodule "themes/showcase"]
+	path = themes/showcase
+	url = https://github.com/apvarun/showcase-hugo-theme.git
