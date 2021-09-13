@@ -27,8 +27,8 @@ pluralizelisttitles = false
   url = "/outerspace"
 
 [[menu.main]]
-  name = "Jurassic Park"
-  url = "https://escaperooms.nuevofoundation.org/jurassicpark"
+  name = "Nurassic Park"
+  url = "/nurassicpark"
 
 [social]
   facebook = "https://facebook.com"
