@@ -6,7 +6,7 @@ contentDir = "content/outerspace"
 publishDir = "public/outerspace"
 
 # settings from theme config.toml
-paginate = 5
+paginate = 12
 DisqusShortname = ""
 Copyright = "All rights reserved - 2021"
 canonifyurls = true

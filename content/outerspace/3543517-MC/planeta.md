@@ -9,14 +9,11 @@ aliases: [
 weight: 6
 ---
 
-This is for Planet A puzzle, click to see.
-Assigned to: Mark / Mollee
-Puzzle: Flux Diagram
+Our flux capacitor is overloaded! 
 
 <!--more-->
 <!-- the above comment is to provide a blurb of the puzzle, do not remove -->
 
+When we landed near Neptune, something about the atmosphere must have led to a slow delay in our flux capacitor needed to power to us hyperspeed. Without the flux capacitor, we are doomed to slowly crawl the depth of space. 
 
-Puzzle goes here
-
-Result: <>
+Rearrange the parts of the capacitor: [Flux Capacitor](https://puzzel.org/en/jigsaw/play?p=-MjqN2_9fYr7uJbzgo7m)

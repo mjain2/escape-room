@@ -56,5 +56,5 @@
 })(jQuery);
 
 function getMCPassword() {
-    return "curiousity";
+    return "perseverance";
 }

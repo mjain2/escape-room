@@ -14,7 +14,7 @@ Run emergency diagnostics to evaluate what components needs to be fixed and what
 <!--more-->
 <!-- the above comment is to provide a blurb of the puzzle, do not remove -->
 
-Once done, each component needed for ship maintenance can be found in the list seen by clicking the Nuvi logo on the top left of the page.
+##### Once done running diagnostics, each component needed for ship maintenance can be found in the list seen by clicking the Nuvi logo on the top left of the page.  Each panel or component yield a keyword - keep track of it!
 
 <button onclick="displayDiagnostics()"> Run Diagnostics </button>
 <div id="runStatus"></div>
@@ -33,7 +33,6 @@ Planetary data recovery: partial recovery complete.
     Missing data for:
     1. Planet A
     2. Planet B
-    3. Planet C
 
 ```
 </div>

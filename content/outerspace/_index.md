@@ -42,7 +42,7 @@ NSEDFES
 
 
 ----------------------------------------------------------------------
-##### *A mission log is critical to the success of our objective.  Captains, please save any observations or data about the mission [here](https://microsoft-my.sharepoint.com/:w:/p/moljain/ETTVtbcKrlNPtnQWv1FJPfMB5CmiDzmL6ks-VT3ofkvWog?e=xFvjEL).*
+##### *A mission log is critical to the success of our objective.  Captains, please save any observations or data about the mission [here](https://nuevofoundation-my.sharepoint.com/:b:/g/personal/mollee_jain_nuevofoundation_org/ESTzYC6fp1RHn5L9_KLb5_gBrvpJIowtDxbLTW7CAf__Vg?e=7HjPUF).*
 
 <form name="startRoom" onsubmit="return validateEntryForm();">
   <label for="password">Password to start up mission control:</label>
