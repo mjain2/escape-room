@@ -1,0 +1,39 @@
+baseURL = "http://escaperooms.nuevofoundation.org/outerspace"
+languageCode = "en-us"
+title = "The Cyptic Cosmos"
+theme = "outerspace"
+contentDir = "content/outerspace"
+publishDir = "public/outerspace"
+
+# settings from theme config.toml
+paginate = 12
+DisqusShortname = ""
+Copyright = "All rights reserved - 2021"
+canonifyurls = true
+
+[author]
+  name = "Nuevo Foundation"
+
+[permalinks]
+    post = "/post/:slug"
+
+[params]
+  description = "Alarms are blaring as you wake up out of cyrosleep on a spaceship, somewhere far far away.  The spaceship is deteriorating and you have 1 hour to fix the ship and get the materials you need to continue hyperspeed to your destination. "
+  cover = "images/user.jpg"
+  author = "Nuevo Foundation"
+  authorlocation = ""
+  # authorwebsite = "https://syui.cf/hugo-theme-air"
+  # bio= "my bio"
+  logo = "images/nf_logo.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  # githubName = "syui"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
+
+# this is to render raw html
+[markup.goldmark.renderer]
+unsafe= true

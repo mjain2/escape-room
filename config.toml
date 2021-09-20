@@ -1,0 +1,37 @@
+baseURL = "http://escaperooms.nuevofoundation.org/"
+languageCode = "en-us"
+title = "Nuevo Foundation Escape Rooms"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+# this setting should always be set to false, otherwise it will break the section navigation bar
+pluralizelisttitles = false
+
+[params]
+  author = "Nuevo Foundation"
+  description = "Escape Rooms"
+  message = ""
+  hideAutoMenu = false
+  
+  # Pagination options
+  paginate = 3
+  multipage = true
+
+  # Dark mode
+  darkMode = true
+
+[[menu.main]]
+  name = "Outer Space"
+  url = "/outerspace"
+
+[[menu.main]]
+  name = "Nurassic Park"
+  url = "/nurassicpark"
+
+[social]
+  facebook = "https://facebook.com"
+  twitter = "https://twitter.com"
+  instagram = "https://instagram.com"
+  linkedin = "https://linkedin.com"

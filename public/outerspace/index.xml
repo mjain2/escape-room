@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entry on The Cyptic Cosmos</title>
+    <link>http://escaperooms.nuevofoundation.org/outerspace/</link>
+    <description>Recent content in Entry on The Cyptic Cosmos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2021</copyright>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://escaperooms.nuevofoundation.org/outerspace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&gt; Run Diagnostics</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/diagnostics/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/diagnostics/</guid>
+      <description>&lt;p&gt;Run emergency diagnostics to evaluate what components needs to be fixed and what planetary data needs to be recovered to route the VCS Nuevo to it&amp;rsquo;s destination, Kepler 186f.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fix Comms Tower</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/communications/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/communications/</guid>
+      <description>&lt;p&gt;Communications are out! Let&amp;rsquo;s check the Morse satellite.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recalibrate Navigation</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/navigation/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/navigation/</guid>
+      <description>&lt;p&gt;Navigation system&amp;hellip;rebooting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replenish Oxygen</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/oxygen/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/oxygen/</guid>
+      <description>&lt;p&gt;Oxygen is quickly dwindling.  Need replenishing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stabilize Pressure</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/pressure/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/pressure/</guid>
+      <description>&lt;p&gt;Pressure is destabilized and needs attention:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planet A Data</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/planeta/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/planeta/</guid>
+      <description>&lt;p&gt;Our flux capacitor is overloaded!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planet B Data</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/planetb/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/planetb/</guid>
+      <description>&lt;p&gt;Trip Around the Planet&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fix ship</title>
+      <link>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/fixship/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://escaperooms.nuevofoundation.org/outerspace/3543517-mc/fixship/</guid>
+      <description>&lt;p&gt;Once you have all of the components figured out, come back here and try setting the correct values for the VCS Nuevo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
